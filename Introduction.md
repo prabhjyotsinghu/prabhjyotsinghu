@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prabhjyot Singh Uppal
+- 👀 I’m interested in Artificial Intelligence as a whole.
+- 🌱 I’m currently learning NLP #DL.
+- 📫 You can reach my on my email: prabhjyot172@gmail.com
