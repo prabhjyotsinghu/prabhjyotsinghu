@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prabhjyot Singh Uppal
+- 👀 I’m interested in Deep Learning (mostly NLP)
+- 🌱 I’m currently learning CNN/RNN
+- 📫 How to reach me prabhjyot172@gmail.com
